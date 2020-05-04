@@ -1,0 +1,229 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #e3e5e7be;
+}
+
+
+
+.card-body p{
+color: #316dc3;
+font-size: 18px;
+font-family:serif;
+}
+.headers{
+    background-color: #316dc3 !important;
+}
+
+.btnn{
+    justify-content: space-between;
+    margin-left: 90px;
+    font-size: 12px;
+}
+
+
+
+.nav-link{
+    margin: 10px;
+    font-weight: 500;
+}
+
+
+.nav-link:hover{
+    color: whitesmoke !important;
+    background-color: #316dc3;
+    border-radius: 50px;
+}
+
+
+
+.marquee1{
+   background-color:#316dc3;
+   margin: 10px 100px 50px 100px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #00ff00;
+   
+}
+.logo{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+    }
+
+    #logo-1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       }
+
+.blue{
+    font-size: 40px;
+    color: #316dc3;
+    font-weight: bold;
+   font-family: serif;
+  
+}
+.green{
+    font-size: 40px;
+    color:#427900;
+    font-weight: bold;
+   font-family: serif;
+}
+
+.history{
+    margin: 0px 120px 10px 120px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.main{
+
+    background-color: #2655e8;
+    
+}
+
+.work{
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    width: 310px;
+    height: 250px;
+    padding: 55px 0px;
+}
+   
+
+.work h1{
+    color: white;
+    font-size: 50px;
+}
+.work p{
+    font-size: 14px;
+    color: white;
+    margin-left: 12px;
+    
+}
+.work span{
+    color: #00ff00;
+    font-weight: bold;
+    
+}
+
+.sadqah{
+    background-color: rgb(14, 248, 236);
+    height: 150px;
+    width: 250px;
+    display: inline-block;
+    margin: 150px 5px 10px 0px;
+   
+}
+
+.cardsimage{
+    width: 50px;
+    height: 50px;
+    margin-top: auto;
+    
+}
+.dastarkhan{
+    height: 70px;
+    width: 70px;
+   margin: 15px 8rem 0px 8rem;
+    
+}
+.it{
+    height: 25px;
+    width: 25px;
+    margin: 25px 5rem 0px 1rem;
+   
+}
+.missionpara{
+    margin-top: -50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    color: #316dc3;
+}
+
+.mar{
+    margin: 10px 0px 10px 0px;
+    width: 350px;
+    align-self: start;
+    
+}
+
+.line{
+    width: 50px;
+    margin-left: 10px;
+    border: 1px solid green;
+    
+}
+.gallerymain{
+    display: flex;
+  
+}
+.gallery{
+    padding: 20px;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+
+
+footer {
+	background-color: #25272e;
+	color: #d5d5d5;
+	padding-top: 2rem;
+}
+hr.light {
+	border-top :1px solid #d5d5d5;
+	width: 75%;
+	margin-top: .8rem;
+	margin-bottom: 1rem;
+}
+footer a {
+	color: #d5d5d5;
+}
+hr.light-100{
+	border-top: 1px solid #d5d5d5;
+	width: 100%;
+	margin-top: .8rem;  
+	margin-bottom: 1rem;
+}
+
+#footerlogo{
+    width: 250px;
+    
+}
+
+.copyright{
+    background-color: #2655e8;
+    color: whitesmoke;
+    width: 100%;
+    height: 50px;
+    
+}
+.copyright h5{
+    font-size: 12px;
+    margin-left:35px;
+    padding: 15px;
+}
+.footerimages img{
+    width: 15px;
+    height: 15px;
+    margin: 0px 230px -50px 0px;
+}
+
+.usefullinks img{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    
+}
+
+
+.top img{
+    position: fixed;
+    bottom: 60px;
+    right: 30px;
+}
